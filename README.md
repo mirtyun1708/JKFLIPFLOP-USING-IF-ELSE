@@ -41,13 +41,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
-
 ![Screenshot 2024-12-10 101322](https://github.com/user-attachments/assets/820bbe68-a501-45d4-8a4c-737245eb0b61)
 
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-
 ![Screenshot 2024-12-10 101430](https://github.com/user-attachments/assets/2ec216e2-81c2-44b8-b9fa-d3b3157a87c7)
 
 
